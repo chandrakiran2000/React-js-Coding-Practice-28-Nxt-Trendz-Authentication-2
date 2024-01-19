@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.cart-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.cart-img {
+  height: 200px;
+}
